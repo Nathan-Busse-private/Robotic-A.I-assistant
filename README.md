@@ -1,5 +1,7 @@
 # Robotic-A.I-assistant
 
+A more advanced version of my previous assistant (ANNIE The virtual assistant).
+
 A virtual assistant that is still in early development written in Python.
 
 Designed to make your life easier.
